@@ -21,6 +21,10 @@ VSCode Ember is the Visual Studio Code client for the Ember Language Server. It 
 
 The VSCode Ember Pack is an extension pack for Visual Studio Code that bundles all the necessary extensions for Ember.js development. It includes the VSCode Ember extension, among others, providing developers with a comprehensive set of tools to kickstart their Ember.js projects in VSCode with ease.
 
+### [Neovim Config for Ember](https://github.com/ember-tooling/neovim-config)
+
+This repository contains configurations tailored for an enhanced Ember.js development experience in Neovim. It leverages the power of the Ember Language Server and integrates it with Neovim, offering features like intelligent code completion, diagnostics, and more, directly within your favorite terminal-based editor.
+
 ## 💪 Contributing
 
 We welcome contributions from the community! Whether you're looking to report a bug, propose a new feature, or contribute code, we encourage you to get involved. Check out the CONTRIBUTING.md file in each repository for more information on how to get started.
